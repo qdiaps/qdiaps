@@ -11,5 +11,4 @@
 - Unity
 - Git
 - C#
-- Python
 
