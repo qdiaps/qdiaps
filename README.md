@@ -7,9 +7,6 @@
 
 ## Стек и технологии:
 - C#
-- C
 - Unity
-  - VContainer
-  - DoTween
 - Git
-
+- Illustrator
