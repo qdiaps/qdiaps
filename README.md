@@ -15,7 +15,7 @@
 
 ## 🤩 Статистика
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qdiaps&count_private=true&show_icons=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qdiaps&hide=html&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=qdiaps&count_private=true&show_icons=true&theme=radical&locale=ru">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qdiaps&hide=html&theme=radical&locale=ru">
 </div>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=qdiaps&theme=radical&locale=ru&mode=weekly">
