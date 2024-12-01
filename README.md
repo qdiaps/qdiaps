@@ -1,16 +1,11 @@
 # Доброго времени суток!
 
-## 🙂 Обо мне 
-- Разрабатываю игры на Unity 🎮
-- Рисую иллюстрации в Illustrator 🌟
-
 ## 🛠️ Стек и технологии:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" width="40" height="40">
 </div>
 
 ## 🤩 Статистика
