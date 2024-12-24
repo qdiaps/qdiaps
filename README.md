@@ -9,6 +9,5 @@
 
 ## 🤩 Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qdiaps&count_private=true&show_icons=true&theme=radical&locale=en">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qdiaps&hide=html&theme=radical&locale=en">
 </div>
