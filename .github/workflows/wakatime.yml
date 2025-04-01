@@ -1,0 +1,19 @@
+name: WakaTime stats updater
+
+on:
+  schedule:
+    - cron: '0 0 * * *' 
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_EDITORS: "true" # Показывать редакторы
+          SHOW_LANGUAGES: "true" # Показывать языки
+          SHOW_LOC_CHART: "true" # Показывать график активности
