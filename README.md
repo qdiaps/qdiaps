@@ -2,11 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2024 - To: 20 September 2025
+From: 05 November 2024 - To: 22 September 2025
 
 Total Time: 357 hrs 47 mins
 
-C#                                       82 hrs 18 mins  >>>>>>-------------------   22.81 %
+C#                                       82 hrs 18 mins  >>>>>>-------------------   22.80 %
 PHP                                      73 hrs 56 mins  >>>>>--------------------   20.49 %
 Go                                       25 hrs 12 mins  >>-----------------------   06.98 %
 Vue.js                                   20 hrs 39 mins  >------------------------   05.72 %
