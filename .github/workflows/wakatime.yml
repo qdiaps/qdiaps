@@ -25,7 +25,7 @@ jobs:
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML Docker Log # optional
+          IGNORED_LANGUAGES: JSON TOML Log # optional
           ### commit
           TARGET_BRANCH: master # optional
           TARGET_PATH: README.md # optional
