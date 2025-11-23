@@ -2,7 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2024 - To: 20 November 2025
+From: 05 November 2024 - To: 21 November 2025
 
 Total Time: 364 hrs 46 mins
 
@@ -14,7 +14,8 @@ CSS                                      18 hrs 39 mins  >----------------------
 C                                        17 hrs 8 mins   >------------------------   04.66 %
 HTML                                     14 hrs 39 mins  >------------------------   03.98 %
 Lua                                      13 hrs 42 mins  >------------------------   03.73 %
-JavaScript                               8 hrs 6 mins    >------------------------   02.20 %
+Docker                                   11 hrs 59 mins  >------------------------   03.26 %
+YAML                                     10 hrs 53 mins  >------------------------   02.96 %
 ```
 
 <!--END_SECTION:waka-->
