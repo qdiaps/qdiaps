@@ -22,4 +22,6 @@ Docker                                   14 hrs 16 mins        >----------------
 
 ---
 
-<img src="https://www.codewars.com/users/qdiaps/badges/large" alt="Codewars profile badge">
+<div style="text-align: center;">
+  <img src="https://www.codewars.com/users/qdiaps/badges/large" alt="Codewars profile badge">
+</div>
